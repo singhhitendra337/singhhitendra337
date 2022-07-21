@@ -1,7 +1,7 @@
 ### Hi there 
-##  I'm Hitendra Singh 👋
-### I'm a Software Developer at Sprinklr and Competitive Programmer from Delhi, India.
-- 👨‍🎓 I'm a final year student at **Netaji Subhas University of Technology (Formerly NSIT), Delhi**.
+##  I'm Hitendra Singh, a Software Developer and Competitive Programmer from Delhi, India  👋
+### My last role was as a **SWE Intern** at [Sprinklr](https://www.sprinklr.com/). .
+- 👨‍🎓 I'm a final year IT student at **Netaji Subhas University of Technology (Formerly NSIT), Delhi**.
 - 💬 **Ask me** about data structures and algorithms, competitive Programming, web development and machine learning.
 - 😄 **Pronouns**: He/His
 ### 🌐 Connect with me : 
